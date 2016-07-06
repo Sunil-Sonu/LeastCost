@@ -8,12 +8,14 @@ Example 1:
       10
     /    \
   30      50
+  
   Output: 40
 </pre>
 <pre>
 Example 2:
   Input:
       40
+  
   Output: 40
 </pre>
   
